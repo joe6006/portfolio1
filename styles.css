@@ -15,7 +15,7 @@ nav {
     padding-top: 45px;
     padding-left: 8%;
     padding-bottom: 10px;
-    background-color: #000066;
+    background-color: #171717;
     margin-right: 15%;
     
 }
@@ -72,14 +72,14 @@ nav ul li a:hover{
     
 }
 span {
-    color: #00A0F3;
+    color: #a27250;
 }
 
 /*body*/
 .hero {
     height: 100vh;
     width: 100%;
-    background-color: #000066;
+    background-color: #171717;
     background-size: cover;
     background-position: center;
    
@@ -109,7 +109,7 @@ span {
 }
 
 .shape .shape-fill {
-    fill: #FAFBF4;
+    fill: #967259;
 }
 
 .content {
@@ -178,7 +178,7 @@ h1 {
 /*skills and about me section*/
 section{
     padding: 20px;
-    background-color:#FAFBF4;
+    background-color:#967259;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid: gap 20px;
@@ -220,7 +220,7 @@ section div p {
 
 .title2{
     text-decoration: underline;
-    text-decoration-color: #000066;
+    text-decoration-color: #171717;
     padding-top: 2%;
     text-align: center;
    
@@ -241,29 +241,25 @@ section div p {
 }
 
 
-.developer {
-    color: #00A0F3;
-}
-
 .abouttext {
     border-style:solid;
     border-width: 5px;
     padding-right: 15%;
     border-color: transparent;
-    border-right-color: #000066;
+    border-right-color: #967259;
     text-align: center;
     border-radius: -50px;
     
 }
 .title1{
     text-decoration: underline;
-    text-decoration-color: #000066;
+    text-decoration-color: #171717;
     text-align: center;
 }
 
 /* this is the project section*/
 .work{
-    background-color: #FAFBF4;
+    background-color: #967259;
     width: 100%;
     padding: 50px;
     padding-top: 8%;
@@ -276,7 +272,7 @@ section div p {
     margin: 30px auto;
     text-align: center;
     text-decoration: underline;
-    text-decoration-color: #000066;
+    text-decoration-color: #967259;
     
 }
 
@@ -296,7 +292,7 @@ section div p {
     padding: 15px;
     border-radius: 20px;
     margin: 15px;
-    background-color: #000066;
+    background-color: #171717;
     position: relative;
     overflow: hidden;
     transition: 0.5s ease;
@@ -305,7 +301,7 @@ section div p {
 }
 
 .card:hover{
-    box-shadow:8px 14px 38px  #00A0F3;
+    box-shadow:8px 14px 38px  #171717;
     transform: translate3D(0,-1px,0) scale(1.10);
     /*same effect*/
     transition: 0.4s ease;
@@ -330,20 +326,20 @@ section div p {
 }
 
 .card a {
-    color: #00A0F3;
+    color: rgb(177, 135, 106);
 }
 /*contact me*/
 #contact{
     border-style: solid;
     border-color: rgb(27, 27, 27);
-    border-top-color: #000066;
+    border-top-color: #171717;
     border-top-width: 10px;
 }
 #contact {
     position: relative;
     width: 100%;
     height: 400px;
-    background: #FAFBF4;
+    background: #171717;
     display:flex;
     align-items:center;
     flex-direction:column;
@@ -353,7 +349,7 @@ section div p {
 }
 
 .contact-p{
-    color: #01090e;
+    color: #FAFBF4;
     font-size: 30px;
     font-weight: bold;
     margin: 25px;
@@ -361,15 +357,15 @@ section div p {
 
 
 .yes{
-    color: #01090e;
+    color: #FAFBF4;
     font-size: 50px;
     text-decoration: underline;
-    text-decoration-color: #000066;
+    text-decoration-color: #967259;
 }
 
 footer p{
     font-size: 20px;
-    color: #01090e;
+    color: #FAFBF4;
     padding:30px;
     display: inline-block;
     align-items: center;
